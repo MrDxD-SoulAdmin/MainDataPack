@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "granite"
+    },
+    "result": "quartz",
+    "experience": 0.15,
+    "cookingtime": 50
+}

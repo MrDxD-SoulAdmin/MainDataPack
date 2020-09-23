@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " @ "
+    ],
+    "key": {
+        "@": {
+            "item": "bucket"
+        }
+    },
+    "result": {
+        "item": "iron_ingot",
+        "count": 3
+    }
+}

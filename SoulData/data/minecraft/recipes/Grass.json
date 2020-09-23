@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " DS"
+    ],
+    "key": {
+        "D": {
+            "item": "dirt"
+        },
+        "S": {
+            "item": "wheat_seeds"
+        }
+    },
+    "result": {
+        "item": "grass_block",
+        "count": 1
+    }
+}

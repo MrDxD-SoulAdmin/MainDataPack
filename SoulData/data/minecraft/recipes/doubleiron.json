@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " &@"
+    ],
+    "key": {
+        "&": {
+            "item": "iron_ore"
+        },
+        "@": {
+            "item": "bamboo"
+        }
+    },
+    "result": {
+        "item": "iron_ingot",
+        "count": 2
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " SS",
+        " SS"
+    ],
+    "key": {
+        "S": {
+            "item": "stone"
+        }
+    },
+    "result": {
+        "item": "smooth_stone",
+        "count": 4
+    }
+}

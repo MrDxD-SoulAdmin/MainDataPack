@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " # ",
+        "  &"
+    ],
+    "key": {
+        "#": {
+            "item": "string"
+        },
+        "&": {
+            "item": "paper"
+        }
+    },
+    "result": {
+        "item": "name_tag",
+        "count": 1
+    }
+}
